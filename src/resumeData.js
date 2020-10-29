@@ -2,23 +2,25 @@ let resumeData = {
     "imagebaseurl": "https://YounHS.github.io/",
     "name": "Youn Hyeonsu",
     "role": "SoftWare Engineer and Data Engineer who is oriented toward data science",
-    "linkedinId": "Your LinkedIn Id",
+    "Phone": "+82-10-6222-3889",
     "skypeid": "Your skypeid",
+    "email": "cranky@kakao.com",
+    "kakaoId": "ILWEE1",
     "roleDescription": "I have experience in open source analysis, so I can learn new technology quickly. I like to analyze and visualize various data.",
     "socialLinks": [{
-            "name": "linkedin",
-            "url": "https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
-            "className": "fa fa-linkedin"
+            "name": "facebook",
+            "url": "https://www.facebook.com/musclebat",
+            "className": "fa fa-facebook"
         },
         {
             "name": "github",
-            "url": "http://github.com/rbhatia46",
+            "url": "https://github.com/YounHS/",
             "className": "fa fa-github"
         },
         {
-            "name": "skype",
-            "url": "http://twitter.com/rbhatia46",
-            "className": "fa fa-twitter"
+            "name": "instagram",
+            "url": "https://www.instagram.com/gwangjinmusclebat/",
+            "className": "fa fa-instagram"
         }
     ],
     "aboutme": "I am currently working as a 'Technical Research Personnel' in Korea. I have gained experience by participating in various tasks such as REST API server development, STM32 embedded programming, and data analysis, etc... I am interested in Data Analysis. Based on this interest, I am making efforts to acquire Data Analysis-related technologies and certificates.",
@@ -64,6 +66,9 @@ let resumeData = {
         },
         {
             "skillname": "Kubernetes"
+        },
+        {
+            "skillname": "Reactjs"
         }
     ],
     "portfolio": [{
