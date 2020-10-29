@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl": "https://YounHS.github.io/",
     "name": "Youn Hyeonsu",
-    "role": "Frontend Developer and Data Scientist",
+    "role": "SoftWare Engineer and Data Engineer who is oriented toward data science",
     "linkedinId": "Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I have experience in open source analysis, so I can learn new technology quickly. I like to analyze and visualize various data.",
     "socialLinks": [{
             "name": "linkedin",
             "url": "https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
@@ -21,69 +21,70 @@ let resumeData = {
             "className": "fa fa-twitter"
         }
     ],
-    "aboutme": "I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address": "India",
-    "website": "https://rbhatia46.github.io",
+    "aboutme": "I am currently working as a 'Technical Research Personnel' in Korea. I have gained experience by participating in various tasks such as REST API server development, STM32 embedded programming, and data analysis, etc... I am interested in Data Analysis. Based on this interest, I am making efforts to acquire Data Analysis-related technologies and certificates.",
+    "address": "Korea",
+    "website": "https://github.com/YounHS/",
     "education": [{
-            "UniversityName": "The LNM Insitute of Information Technology",
-            "specialization": "Some specialization",
-            "MonthOfPassing": "Aug",
-            "YearOfPassing": "2020",
-            "Achievements": "Some Achievements"
+            "UniversityName": "Sejong University",
+            "specialization": "Computer Engineering",
+            "MonthOfPassing": "Feb",
+            "YearOfPassing": "2019",
+            "Achievements": "Master's degree"
         },
         {
-            "UniversityName": "Some University",
-            "specialization": "Some specialization",
-            "MonthOfPassing": "Jan",
-            "YearOfPassing": "2018",
-            "Achievements": "Some Achievements"
+            "UniversityName": "Soongsil University",
+            "specialization": "Computer Engineering",
+            "MonthOfPassing": "Aug",
+            "YearOfPassing": "2016",
+            "Achievements": "Bachelor's degree"
         }
     ],
     "work": [{
-            "CompanyName": "Some Company",
-            "specialization": "Some specialization",
-            "MonthOfLeaving": "Jan",
-            "YearOfLeaving": "2018",
-            "Achievements": "Some Achievements"
-        },
-        {
-            "CompanyName": "Some Company",
-            "specialization": "Some specialization",
-            "MonthOfLeaving": "Jan",
-            "YearOfLeaving": "2018",
-            "Achievements": "Some Achievements"
-        }
-    ],
-    "skillsDescription": "Your skills here",
+        "CompanyName": "IMR Inc.",
+        "specialization": "Research and Development",
+        "MonthOfLeaving": "NaN",
+        "YearOfLeaving": "NaN",
+        "Achievements": "Technical Research Personnel"
+    }],
+    "skillsDescription": "Skill Proficiency",
     "skills": [{
-            "skillname": "HTML5"
+            "skillname": "Spring Framework"
         },
         {
-            "skillname": "CSS"
+            "skillname": "Pandas"
         },
         {
-            "skillname": "Reactjs"
+            "skillname": "Scikit-Learn"
+        },
+        {
+            "skillname": "PostGreSQL"
+        },
+        {
+            "skillname": "Docker"
+        },
+        {
+            "skillname": "Kubernetes"
         }
     ],
     "portfolio": [{
             "name": "project1",
             "description": "mobileapp",
-            "imgurl": "images/portfolio/phone.jpg"
+            "imgurl": "images/profilepic.jpg"
         },
         {
             "name": "project2",
             "description": "mobileapp",
-            "imgurl": "images/portfolio/project.jpg"
+            "imgurl": "images/portfolio/console.jpg"
         },
         {
             "name": "project3",
             "description": "mobileapp",
-            "imgurl": "images/portfolio/project2.png"
+            "imgurl": "images/portfolio/judah.png"
         },
         {
             "name": "project4",
             "description": "mobileapp",
-            "imgurl": "images/portfolio/phone.jpg"
+            "imgurl": "images/portfolio/retrocam.jpg"
         }
     ],
     "testimonials": [{
