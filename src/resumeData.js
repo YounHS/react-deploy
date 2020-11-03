@@ -50,22 +50,32 @@ let resumeData = {
     }],
     "skillsDescription": "Skill Proficiency",
     "skills": [{
-            "skillname": "Spring Framework"
+            "skillname": "Spring Framework",
+            "level": "90%"
         },
         {
-            "skillname": "Pandas"
+            "skillname": "Pandas",
+            "level": "85%"
         },
         {
-            "skillname": "Scikit-Learn"
+            "skillname": "Scikit-Learn",
+            "level": "60%"
         },
         {
-            "skillname": "PostGreSQL"
+            "skillname": "PostGreSQL",
+            "level": "80%"
         },
         {
-            "skillname": "Docker"
+            "skillname": "Docker",
+            "level": "20%"
         },
         {
-            "skillname": "Kubernetes"
+            "skillname": "Kubernetes",
+            "level": "10%"
+        },
+        {
+            "skillname": "Reactjs",
+            "level": "10%"
         }
     ],
     "portfolio": [{
