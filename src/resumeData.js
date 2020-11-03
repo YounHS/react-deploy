@@ -66,15 +66,12 @@ let resumeData = {
         },
         {
             "skillname": "Kubernetes"
-        },
-        {
-            "skillname": "Reactjs"
         }
     ],
     "portfolio": [{
-            "name": "project1",
-            "description": "mobileapp",
-            "imgurl": "images/profilepic.jpg"
+            "name": "광주 무인 저속 특장차 실증사업",
+            "description": "Open Source Analysis and Customize",
+            "imgurl": "images/projects/XVIZ.jpg"
         },
         {
             "name": "project2",
