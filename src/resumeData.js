@@ -84,23 +84,38 @@ let resumeData = {
             "imgurl": "images/projects/XVIZ.jpg"
         },
         {
-            "name": "project2",
-            "description": "mobileapp",
-            "imgurl": "images/portfolio/console.jpg"
+            "name": "광주 전남 지역선도대학",
+            "description": "Web Application (REST API Server) Development",
+            "imgurl": "images/projects/localLeadUniv.png"
         },
         {
-            "name": "project3",
-            "description": "mobileapp",
-            "imgurl": "images/portfolio/judah.png"
+            "name": "스마트 팩토리 신규구축 사업",
+            "description": "Web Application (REST API Server) Development",
+            "imgurl": "images/projects/smartfactory.png"
         },
         {
-            "name": "project4",
-            "description": "mobileapp",
-            "imgurl": "images/portfolio/retrocam.jpg"
+            "name": "광주 스마트시티 챌린지 예비사업",
+            "description": "Data Engineering and Analysis",
+            "imgurl": "images/projects/smartcity.png"
+        },
+        {
+            "name": "오픈랩(OpenLAB 조성사업)",
+            "description": "Encryption Module SoftWare Development",
+            "imgurl": "images/projects/openlab.jpg"
+        },
+        {
+            "name": "oneM2M 서버 플랫폼 인증",
+            "description": "Open Source Analysis and Customize",
+            "imgurl": "images/projects/oneM2M.png"
+        },
+        {
+            "name": "사이버전 특화연구실",
+            "description": "Cyber Attack Detection Software Development",
+            "imgurl": "images/projects/ADD.png"
         }
     ],
     "testimonials": [{
-            "description": "This is a sample testimonial",
+            "description": "",
             "name": "Some technical guy"
         },
         {
