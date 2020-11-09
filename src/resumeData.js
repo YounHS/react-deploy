@@ -81,7 +81,7 @@ let resumeData = {
     "portfolio": [{
             "name": "광주 무인 저속 특장차 실증사업",
             "description": "Open Source Analysis and Customize",
-            "imgurl": "images/projects/XVIZ.jpg"
+            "imgurl": "images/projects/XVIZ.png"
         },
         {
             "name": "광주 전남 지역선도대학",
