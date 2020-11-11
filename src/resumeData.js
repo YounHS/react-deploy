@@ -44,8 +44,8 @@ let resumeData = {
     "work": [{
         "CompanyName": "IMR Inc.",
         "specialization": "Research and Development",
-        "MonthOfLeaving": "NaN",
-        "YearOfLeaving": "NaN",
+        "MonthOfLeaving": "Mar 2019 ~",
+        "YearOfLeaving": "Present",
         "Achievements": "Technical Research Personnel"
     }],
     "skillsDescription": "Skill Proficiency",
@@ -115,7 +115,7 @@ let resumeData = {
         }
     ],
     "testimonials": [{
-            "description": "",
+            "description": "This is a sample testimonial",
             "name": "Some technical guy"
         },
         {
