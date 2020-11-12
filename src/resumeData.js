@@ -59,7 +59,7 @@ let resumeData = {
         },
         {
             "skillname": "Scikit-Learn",
-            "level": "60%"
+            "level": "50%"
         },
         {
             "skillname": "PostGreSQL",
@@ -67,7 +67,7 @@ let resumeData = {
         },
         {
             "skillname": "Docker",
-            "level": "20%"
+            "level": "60%"
         },
         {
             "skillname": "Kubernetes",
