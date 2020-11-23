@@ -64,7 +64,7 @@ header .banner {
     margin: 0 auto;
     width: 85%;
     padding-bottom: 30px;
-    s text-align: center;
+    text-align: center;
 }
 
 header .banner-text {
@@ -346,6 +346,7 @@ ul#nav li.current a {
 }
 
 .education,
+.certificate,
 .work {
     margin-bottom: 48px;
     padding-bottom: 24px;
