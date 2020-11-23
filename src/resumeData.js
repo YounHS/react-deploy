@@ -41,6 +41,21 @@ let resumeData = {
             "Achievements": "Bachelor's degree"
         }
     ],
+    "certificate": [{
+        "CertificateName": "ADsP",
+        "Organization": "Korea Data Agency",
+        "MonthOfPassing": "Jul",
+        "YearOfPassing": "2020",
+        "FullName": "Advanced Data Analytics Semi-Professional"
+    },
+    {
+        "CertificateName": "IEIP",
+        "Organization": "Human Resources Development Service of Korea",
+        "MonthOfPassing": "Oct",
+        "YearOfPassing": "2016",
+        "FullName": "Industrial Engineer Information Processing"
+    }
+    ],
     "work": [{
         "CompanyName": "IMR Inc.",
         "specialization": "Research and Development",
