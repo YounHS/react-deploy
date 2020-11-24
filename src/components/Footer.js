@@ -18,6 +18,12 @@ export default class Footer extends Component {
                   );
                 })}
             </ul>
+            <ul>
+              <li>Modified with glory by the YounHS 🤴</li>
+            </ul>
+            <ul class="copyright">
+              <li>© All credit goes to YounHS - Copyright 2020 Hyeonsu Youn</li>
+            </ul>
           </div>
           <div id="go-top">
             <a className="smoothscroll" title="Back to Top" href="#home">

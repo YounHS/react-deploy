@@ -63,9 +63,10 @@ export default class Header extends Component {
           <div className="row banner">
             <div className="banner-text">
               <h1 className="responsive-headline"> This is 'YounHS' </h1>{" "}
-              <h3 style={{ color: "#fff", fontFamily: "sans-serif " }}>
+              <h3>
                 {" "}
-                I am a {resumeData.role}. {resumeData.roleDescription}{" "}
+                I'm a <span>SoftWare Engineer</span> and <span>Data Engineer</span> who is oriented toward <span>Data Science</span>. I have experience in open source analysis, so I can learn new technology quickly. I like to analyze and visualize various data.
+                {" "}
               </h3>{" "}
               <hr />
               <ul className="social">

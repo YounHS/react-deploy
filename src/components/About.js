@@ -21,7 +21,18 @@ export default class About extends Component {
                   <br></br>
                   <span>{resumeData.address}</span>
                   <br></br>
-                  <span>{resumeData.website}</span>
+                  <span>{resumeData.phone}</span>
+                  <br></br>
+                  <span>{resumeData.email}</span>
+                </p>
+              </div>
+              <div className="columns download">
+                <p>
+                  <a class="button" href="https://github.com/YounHS/">
+                    <i class="fa fa-external-link-square">
+                    </i>
+                    Go YounHS github
+                  </a>
                 </p>
               </div>
             </div>
