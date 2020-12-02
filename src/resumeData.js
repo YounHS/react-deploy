@@ -68,11 +68,11 @@ let resumeData = {
     "skillsDescription": "Skill Proficiency",
     "skills": [{
             "skillname": "Spring Framework",
-            "level": "90%"
+            "level": "70%"
         },
         {
             "skillname": "Pandas",
-            "level": "85%"
+            "level": "75%"
         },
         {
             "skillname": "Scikit-Learn",
@@ -85,6 +85,10 @@ let resumeData = {
         {
             "skillname": "Docker",
             "level": "60%"
+        },
+        {
+            "skillname": "AWS EC2",
+            "level": "30%"
         },
         {
             "skillname": "Kubernetes",
