@@ -59,12 +59,20 @@ let resumeData = {
     }
     ],
     "work": [{
-        "CompanyName": "IMR Inc.",
-        "specialization": "Research and Development",
-        "MonthOfLeaving": "Mar 2019 ~",
-        "YearOfLeaving": "Present",
-        "Achievements": "Technical Research Personnel"
-    }],
+            "CompanyName": "IMR Inc.",
+            "specialization": "Research and Development",
+            "MonthOfLeaving": "Mar 2019 ~ ",
+            "YearOfLeaving": "Jun 2021",
+            "Achievements": "Technical Research Personnel"
+        },
+        {
+            "CompanyName": "CyberTechFriends Inc.",
+            "specialization": "QMS Business dept.",
+            "MonthOfLeaving": "Jun 2021 ~ ",
+            "YearOfLeaving": "Present",
+            "Achievements": "Technical Research Personnel"
+        }
+    ],
     "skillsDescription": "Skill Proficiency",
     "skills": [{
             "skillname": "Spring Framework",
