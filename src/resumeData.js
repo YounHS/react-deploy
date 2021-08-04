@@ -23,8 +23,8 @@ let resumeData = {
             "className": "fa fa-instagram"
         }
     ],
-    "aboutme": "I'm currently working as a 'Technical Research Personnel' in Korea. I have gained experience by participating in various tasks such as REST API server development, STM32 embedded programming, and data analysis, etc... I am interested in Data Analysis. Based on this interest, I am making efforts to acquire Data Analysis-related technologies and certificates.",
-    "address": "Gwangju, Republic Of Korea",
+    "aboutme": "I'm currently working as a 'Technical Research Personnel' in Korea. Now, I am working on applying Artificial Intelligence services by establishing BigData Analysis Platform. I am trying to move forward with this work as a Data Scientist.",
+    "address": "Gyeong-gi, Republic Of Korea",
     "website": "https://github.com/YounHS/",
     "phone": "+82-10-6222-3889",
     "email": "cranky@kakao.com",
