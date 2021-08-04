@@ -1,5 +1,14 @@
 import React, { Component } from "react";
 export default class Resume extends Component {
+  getRandomColor() {
+    let letters = "0123456789ABCDEF";
+    let color = "#";
+    for (let i = 0; i < 6; i++) {
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+  }
+
   render() {
     let resumeData = this.props.resumeData;
     return (
@@ -104,11 +113,12 @@ export default class Resume extends Component {
               <ul className="skills">
                 {resumeData.skills &&
                   resumeData.skills.map((item) => {
+                    const backgroundColor = this.getRandomColor();
                     return (
                       <li>
                         <span
                           className={`bar-expand ${item.skillname.toLowerCase()}`}
-                          style={{ width: `${item.level}` }}
+                          style={{ width: `${item.level}`, backgroundColor }}
                         ></span>
                         <em>{item.skillname}</em>
                       </li>

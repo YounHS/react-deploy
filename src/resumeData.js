@@ -99,8 +99,8 @@ let resumeData = {
             "level": "30%"
         },
         {
-            "skillname": "Kubernetes",
-            "level": "10%"
+            "skillname": "Apache Kafka",
+            "level": "50%"
         },
         {
             "skillname": "Reactjs",
